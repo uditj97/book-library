@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.header {
+    font-size: 20px;
+    background: rgb(255, 92, 80);
+    font-weight: 800;
+    color: white;
+}
+
+.content {
+    font-size: 18px;
+    background: rgb(240, 237, 237);
+    font-weight: 500;
+}
